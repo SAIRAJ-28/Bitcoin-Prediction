@@ -23,7 +23,7 @@ Disadvantages:
 •	susceptibility to the curse of dimensionality.
 
 
-*Support Vector Machine (SVM)*
+*Gradient Boosting Algorithm*
 
 
 Gradient Boosting is an ensemble technique that builds multiple weak learners (decision trees) sequentially to improve prediction accuracy.
