@@ -2,7 +2,6 @@ Machine Learning Algorithms
 
 *KNN Algorithm*
 
-
 KNN is one of the most basic yet essential classification algorithms in machine learning.
 It belongs to the supervised learning domain and finds intense application in pattern recognition, data mining, and intrusion detection.  
 Steps:
@@ -24,7 +23,6 @@ Disadvantages:
 
 
 *Gradient Boosting Algorithm*
-
 
 Gradient Boosting is an ensemble technique that builds multiple weak learners (decision trees) sequentially to improve prediction accuracy.
 Implementation Steps:
